@@ -89,18 +89,6 @@ Analytics dashboard for semiconductor manufacturing yield optimization. Real-tim
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anudeepreddynarala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepreddynarala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always excited to discuss embedded systems, hardware design, and edge AI projects!
