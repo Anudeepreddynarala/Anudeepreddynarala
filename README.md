@@ -47,10 +47,10 @@ I specialize in developing embedded systems from hardware to software, with expe
 
 ## 🚀 Featured Embedded Projects
 
-### 🔹 [TinyML ESP32 Inference Engine](https://github.com/Anudeepreddynarala/tinyml-esp32-inference)
-Deployed TensorFlow Lite models on ESP32 microcontroller for real-time edge AI inference. Optimized memory footprint and latency for resource-constrained embedded systems.
-- **Tech:** ESP32, TensorFlow Lite, C++, FreeRTOS
-- **Performance:** < 100ms inference time, < 50KB RAM usage
+### 🔹 [Resource-Constrained Edge ML Deployment](https://github.com/Anudeepreddynarala/Fan_Anomaly_Detection)
+Ported TensorFlow Lite Micro to ESP32 with custom porting layer, resolving CMSIS-DSP incompatibilities. Achieved production-grade inference performance through multi-core task scheduling and DMA optimization.
+- **Tech:** ESP-IDF, TensorFlow Lite, CMSIS, CMake Build Systems, C/C++, Free
+- **Performance:** 55.1ms inference, 85KB RAM, 6.2 inferences/sec, 342KB total firmware
 
 ### 🔹 [YOLO11 Jetson Lean Runtime](https://github.com/Anudeepreddynarala/yolo11-jetson-lean-runtime)
 Optimized YOLO11 object detection for NVIDIA Jetson Nano. Achieved real-time performance through model quantization and CUDA optimization.
