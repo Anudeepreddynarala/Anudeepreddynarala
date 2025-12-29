@@ -97,10 +97,3 @@ I'm always excited to discuss embedded systems, hardware design, and edge AI pro
 - 📧 Email: anudeepreddynarala@gmail.com
 - 🌐 Open to collaboration on embedded systems and IoT projects
 
----
-
-<div align="center">
-
-**"Hardware is hard, but that's what makes it rewarding."** ⚡
-
-</div>
