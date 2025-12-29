@@ -52,10 +52,6 @@ Ported TensorFlow Lite Micro to ESP32 with custom porting layer, resolving CMSIS
 - **Tech:** ESP-IDF, TensorFlow Lite, CMSIS, CMake Build Systems, C/C++, Free
 - **Performance:** 55.1ms inference, 85KB RAM, 6.2 inferences/sec, 342KB total firmware
 
-### 🔹 [YOLO11 Jetson Lean Runtime](https://github.com/Anudeepreddynarala/yolo11-jetson-lean-runtime)
-Optimized YOLO11 object detection for NVIDIA Jetson Nano. Achieved real-time performance through model quantization and CUDA optimization.
-- **Tech:** NVIDIA Jetson Nano, CUDA, TensorRT, Python
-- **Performance:** 25+ FPS @ 1080p resolution
 
 ### 🔹 [Single-Precision Floating-Point FPGA](https://github.com/Anudeepreddynarala/single-precision-floating-point-fpga)
 Implemented IEEE 754 single-precision floating-point arithmetic unit in Verilog. Hardware-accelerated computation for DSP applications.
