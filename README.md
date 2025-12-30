@@ -40,6 +40,7 @@ I specialize in developing embedded systems from hardware to software, with expe
 
 ### Software & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -47,9 +48,15 @@ I specialize in developing embedded systems from hardware to software, with expe
 
 ## 🚀 Featured Embedded Projects
 
+### 🔹 [Real-Time Object Detection with Rust Networking](https://github.com/Anudeepreddynarala/jetson-trt-stream)
+High-performance object detection pipeline combining TensorRT-optimized YOLO inference with low-latency Rust networking on NVIDIA Jetson Orin Nano. Features Unix socket IPC for inter-process communication and concurrent UDP/TCP streaming.
+- **Tech:** TensorRT FP16, Rust (Tokio async), Python, CUDA, Unix Sockets
+- **Performance:** 248.7 qps throughput, 4.6ms inference latency, <50ms end-to-end
+- **Architecture:** Parallel pipeline (Camera → TensorRT → Rust → UDP/TCP streams)
+
 ### 🔹 [Resource-Constrained Edge ML Deployment](https://github.com/Anudeepreddynarala/Fan_Anomaly_Detection)
 Ported TensorFlow Lite Micro to ESP32 with custom porting layer, resolving CMSIS-DSP incompatibilities. Achieved production-grade inference performance through multi-core task scheduling and DMA optimization.
-- **Tech:** ESP-IDF, TensorFlow Lite, CMSIS, CMake Build Systems, C/C++, Free
+- **Tech:** ESP-IDF, TensorFlow Lite, CMSIS, CMake Build Systems, C/C++, FreeRTOS
 - **Performance:** 55.1ms inference, 85KB RAM, 6.2 inferences/sec, 342KB total firmware
 
 
